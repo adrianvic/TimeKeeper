@@ -1,0 +1,4 @@
+ticksBetweenUpdate: 20
+timezone: "America/Sao_Paulo" # comment this line to use system's default timezone
+worlds:
+    - "world"

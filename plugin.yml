@@ -1,0 +1,6 @@
+author: tenkuma
+database: false
+main: gd.rf.adrianvictor.realtime.Main
+name: TimeKeeper
+url: https://adrianvictor.rf.gd
+version: '1.0'
